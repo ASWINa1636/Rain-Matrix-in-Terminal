@@ -53,8 +53,8 @@ cd matrix-rain-terminal
 ## Configuration
 
 You can tweak these values at the top of the script:
-
-|:------------------------|----------------------------------------:|
+| Animation | Discription |
+|------------------------|----------------------------------------|
 | TICK = `0.06 `           | Animation speed (lower = faster)       |
 | SPAWN_MIN_INTERVAL = `1` | Minimum delay between drops per column |
 | SPAWN_MAX_INTERVAL = `6` | Maximum delay between drops per column |
